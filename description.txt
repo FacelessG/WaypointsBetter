@@ -1,0 +1,1 @@
+Craft waypoints and place them anywhere across your world. You can place up to 13 waypoints. Press the wand in the bottom left corner to choose what waypoint to teleport to.

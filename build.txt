@@ -1,0 +1,3 @@
+displayName = Waypoints Better
+author = Faceless
+version = 1.0
